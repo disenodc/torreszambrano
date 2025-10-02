@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+
+{% block titulo %}Buscar Posts - Mi Blog{% endblock %}
+
+{% block contenido %}
+<h2>Buscar Posts</h2>
+
+<form method="post">
+    {% csrf_token %}
+    <p>
+        <label>Buscar por título:</label>
+        {{ form.buscar }}
+    </p>
+    <button type="submit">Buscar</button>
+</form>
+
+{% if posts %}
+    <h3>Resultados:</h3>
+    {% for post in posts %}
+    <div class="post">
+        <h3>{{ post.titulo }}</h3>
+        <p><strong>Autor:</strong> {{ post.autor }}</p>
+        <p><strong>Categoría:</strong> {{ post.categoria }}</p>
+        <p>{{ post.contenido|truncatewords:30 }}</p>
+    </div>
+    {% endfor %}
+{% endif %}
+
+<p><a href="{% url 'index' %}">Volver al inicio</a></p>
+{% endblock %}

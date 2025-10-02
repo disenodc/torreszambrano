@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+
+{% block titulo %}Crear Categoría - Mi Blog{% endblock %}
+
+{% block contenido %}
+<h2>Crear Nueva Categoría</h2>
+
+<form method="post">
+    {% csrf_token %}
+    <p>
+        <label>Nombre:</label>
+        {{ form.nombre }}
+    </p>
+    <p>
+        <label>Descripción:</label>
+        {{ form.descripcion }}
+    </p>
+    <button type="submit">Guardar Categoría</button>
+</form>
+
+<p><a href="{% url 'index' %}">Volver al inicio</a></p>
+{% endblock %}

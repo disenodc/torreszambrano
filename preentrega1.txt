@@ -1,4 +1,0 @@
-Boceto inicial del proyecto TuModeloDeClientes:
-- Clase Cliente con nombre, apellido, email y dirección.
-- Métodos para agregar compras y mostrar historial.
-- Versión básica sin herencia ni guardado de datos.

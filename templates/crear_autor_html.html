@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+
+{% block titulo %}Crear Autor - Mi Blog{% endblock %}
+
+{% block contenido %}
+<h2>Crear Nuevo Autor</h2>
+
+<form method="post">
+    {% csrf_token %}
+    <p>
+        <label>Nombre:</label>
+        {{ form.nombre }}
+    </p>
+    <p>
+        <label>Apellido:</label>
+        {{ form.apellido }}
+    </p>
+    <p>
+        <label>Email:</label>
+        {{ form.email }}
+    </p>
+    <p>
+        <label>Fecha de nacimiento:</label>
+        {{ form.fecha_nacimiento }}
+    </p>
+    <button type="submit">Guardar Autor</button>
+</form>
+
+<p><a href="{% url 'index' %}">Volver al inicio</a></p>
+{% endblock %}

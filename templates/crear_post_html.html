@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+
+{% block titulo %}Crear Post - Mi Blog{% endblock %}
+
+{% block contenido %}
+<h2>Crear Nuevo Post</h2>
+
+<form method="post">
+    {% csrf_token %}
+    <p>
+        <label>Título:</label>
+        {{ form.titulo }}
+    </p>
+    <p>
+        <label>Contenido:</label>
+        {{ form.contenido }}
+    </p>
+    <p>
+        <label>Autor:</label>
+        {{ form.autor }}
+    </p>
+    <p>
+        <label>Categoría:</label>
+        {{ form.categoria }}
+    </p>
+    <button type="submit">Guardar Post</button>
+</form>
+
+<p><a href="{% url 'index' %}">Volver al inicio</a></p>
+{% endblock %}
