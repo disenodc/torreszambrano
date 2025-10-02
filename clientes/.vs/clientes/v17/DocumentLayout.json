@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tomy\\Downloads\\TuModeloDeClientes\u002BLungrin\\clientes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tomy\\OneDrive\\Documentos\\Visual Studio 2022\\Code Snippets\\Python\\My Code Snippets\\clientes\\cliente_premium.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tomy\\OneDrive\\Documentos\\Visual Studio 2022\\Code Snippets\\Python\\My Code Snippets\\clientes\\cliente.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tomy\\OneDrive\\Documentos\\Visual Studio 2022\\Code Snippets\\Python\\My Code Snippets\\clientes\\gestor_clientes.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tomy\\OneDrive\\Documentos\\Visual Studio 2022\\Code Snippets\\Python\\My Code Snippets\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "gestor_clientes.py",
+              "DocumentMoniker": "C:\\Users\\Tomy\\OneDrive\\Documentos\\Visual Studio 2022\\Code Snippets\\Python\\My Code Snippets\\clientes\\gestor_clientes.py",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Documentos\\Visual Studio 2022\\Code Snippets\\Python\\My Code Snippets\\clientes\\gestor_clientes.py",
+              "ToolTip": "C:\\Users\\Tomy\\OneDrive\\Documentos\\Visual Studio 2022\\Code Snippets\\Python\\My Code Snippets\\clientes\\gestor_clientes.py",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Documentos\\Visual Studio 2022\\Code Snippets\\Python\\My Code Snippets\\clientes\\gestor_clientes.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-26T15:03:34.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cliente_premium.py",
+              "DocumentMoniker": "C:\\Users\\Tomy\\OneDrive\\Documentos\\Visual Studio 2022\\Code Snippets\\Python\\My Code Snippets\\clientes\\cliente_premium.py",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Documentos\\Visual Studio 2022\\Code Snippets\\Python\\My Code Snippets\\clientes\\cliente_premium.py",
+              "ToolTip": "C:\\Users\\Tomy\\OneDrive\\Documentos\\Visual Studio 2022\\Code Snippets\\Python\\My Code Snippets\\clientes\\cliente_premium.py",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Documentos\\Visual Studio 2022\\Code Snippets\\Python\\My Code Snippets\\clientes\\cliente_premium.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-26T15:03:34.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cliente.py",
+              "DocumentMoniker": "C:\\Users\\Tomy\\OneDrive\\Documentos\\Visual Studio 2022\\Code Snippets\\Python\\My Code Snippets\\clientes\\cliente.py",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Documentos\\Visual Studio 2022\\Code Snippets\\Python\\My Code Snippets\\clientes\\cliente.py",
+              "ToolTip": "C:\\Users\\Tomy\\OneDrive\\Documentos\\Visual Studio 2022\\Code Snippets\\Python\\My Code Snippets\\clientes\\cliente.py",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Documentos\\Visual Studio 2022\\Code Snippets\\Python\\My Code Snippets\\clientes\\cliente.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-26T15:03:33.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.py",
+              "DocumentMoniker": "C:\\Users\\Tomy\\OneDrive\\Documentos\\Visual Studio 2022\\Code Snippets\\Python\\My Code Snippets\\main.py",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Documentos\\Visual Studio 2022\\Code Snippets\\Python\\My Code Snippets\\main.py",
+              "ToolTip": "C:\\Users\\Tomy\\OneDrive\\Documentos\\Visual Studio 2022\\Code Snippets\\Python\\My Code Snippets\\main.py",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Documentos\\Visual Studio 2022\\Code Snippets\\Python\\My Code Snippets\\main.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-26T15:01:10.167Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
